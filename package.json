@@ -1,0 +1,15 @@
+{
+  "name": "textlint-tescon",
+  "version": "1.0.0",
+  "description": "template for tescon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiseri",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "textlint": "^10.2.1",
+    "textlint-rule-preset-ja-technical-writing": "^2.0.0"
+  }
+}
