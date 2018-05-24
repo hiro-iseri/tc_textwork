@@ -1,0 +1,21 @@
+●この資料について
+委員の作業環境として、Visual Studio CodeでTextLint環境を構築する手順を記載しています。
+
+●手順
+1. githubからこの手順を含むワークスペースフォルダを、適宜の場所に持ってくる
+
+2. npmをインストールする。
+Windows:
+https://qiita.com/taiponrock/items/9001ae194571feb63a5e
+Mac:
+https://qiita.com/raihara3/items/78c512045af699fe35f1
+
+3. Visual Studio Codeをインストールする
+https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx
+
+4. VS CodeでTextLint拡張機能をインストールする
+参考手順：
+https://qiita.com/azu/items/2c565a38df5ed4c9f4e1
+※package.json、package.jsonはすでにあるので作成不要
+
+5. targetフォルダ内で解析対象ファイルを編集する
